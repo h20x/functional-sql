@@ -1,0 +1,23 @@
+{
+  "name": "functional-sql",
+  "version": "1.0.0",
+  "description": "https://www.codewars.com/kata/545434090294935e7d0010ab",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h20x/functional-sql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h20x/functional-sql/issues"
+  },
+  "homepage": "https://github.com/h20x/functional-sql#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
